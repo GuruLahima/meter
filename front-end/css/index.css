@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: "font-awesome"
+}
+
+#navp {
+    color: white;
+    text-align: left;
+}
+
+nav a {
+    color: white;
+    text-align: right;
+}
+
+h1 {
+    margin: 0 auto;
+    padding: 50px;
+}
+
+button {
+    margin: 100px 400px;
+}

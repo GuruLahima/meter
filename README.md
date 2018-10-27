@@ -2,7 +2,7 @@
 
 ## Contents
 1. [Introduction](#intro)
-2. [Features] (#features)
+2. [Features](#features)
 3. [How to install](#install)
 
 <a id="intro"></a>
