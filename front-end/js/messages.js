@@ -1,0 +1,4 @@
+var messages = [
+    "Thot, plz",
+    
+    ];
