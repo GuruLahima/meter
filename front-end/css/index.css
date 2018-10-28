@@ -7,17 +7,19 @@ body {
     position: relative;
 }
 
+/*background for christmas time inspiration https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.sweetandtalented.com%2Fimages%2Fmeangirls%2Fmeangirls12.jpg&f=1*/
+
 .background::before {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
-    background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2Ypn3T4TKdM%2Fhqdefault.jpg&f=1");
+    background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Faz616578.vo.msecnd.net%2Ffiles%2F2016%2F10%2F18%2F636123515330755057-1710839023_115206-regina-george-halloween-costum-aim3.jpeg&f=1");
     background-size: cover;
-    opacity: .5;
+    opacity: 0.7;
     content: "";
-    z-index: -2;
+    z-index: -1
 }
 
 #navp {
@@ -25,18 +27,10 @@ body {
     text-align: left;
 }
 
-/*a {*/
-/*    color: white;*/
-/*    text-align: right;*/
-/*}*/
-
-/*a:hover {*/
-/*    color: blue;*/
-/*}*/
-
 h1 {
     padding-top: 30px;
     color: black;
+    text-shadow: 2px 2px;
 }
 
 h4 {
@@ -48,3 +42,12 @@ h4 {
 button {
     margin: 100px 400px;
 }
+
+/*a {*/
+/*    color: white;*/
+/*    text-align: right;*/
+/*}*/
+
+/*a:hover {*/
+/*    color: blue;*/
+/*}*/
