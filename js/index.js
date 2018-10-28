@@ -16,7 +16,7 @@ window.onload = () => {
 		el.setAttribute("href", "https://twitter.com/share?ref_src=twsrc%5Etfw");
 		el.setAttribute("class", "twitter-share-button");
 		el.setAttribute("data-text", text);
-		el.setAttribute("data-hashtags", "thot, thotOmeter")
+		el.setAttribute("data-hashtags", "thot,thotOmeter")
 		return el;
    }
 	

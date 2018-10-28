@@ -1,19 +1,12 @@
 # THOT SPA
 
-## Contents
-1. [Introduction](#intro)
-2. [Features](#features)
-3. [How to install](#install)
+## Open for proposals for new thot-messages!
 
-<a id="intro"></a>
-## Introduction
+Open a new pull request where you update the messages variable in `index.js`.
 
-This is going to be **the** SPA for THOTS.
+Also, if you have expertise in CSS, please fix our shit, we will make you the THOT of the SPA.
 
-<a id="features"></a>
-## Features
+## Issue reporting
 
-
-
-<a id="install"></a>
-## How to install
+Please open a new issue if you notice a bug on our thot-o-meter.
+Also, that makes you the most appropriate person to fix it :))
