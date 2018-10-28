@@ -1,8 +1,23 @@
 body {
     text-align: center;
     font-family: 'Griffy', cursive;
-    background: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-231175.jpg");
+}
+
+.background {
+    position: relative;
+}
+
+.background::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2Ypn3T4TKdM%2Fhqdefault.jpg&f=1");
     background-size: cover;
+    opacity: .5;
+    content: "";
+    z-index: -2;
 }
 
 #navp {
@@ -10,20 +25,24 @@ body {
     text-align: left;
 }
 
-/*nav a {*/
+/*a {*/
 /*    color: white;*/
 /*    text-align: right;*/
 /*}*/
 
+/*a:hover {*/
+/*    color: blue;*/
+/*}*/
+
 h1 {
     padding-top: 30px;
-    color: white;
+    color: black;
 }
 
 h4 {
     padding-top: 10px;
     padding-bottom: 100px;
-    color: white;
+    color: black;
 }
 
 button {

@@ -8,11 +8,10 @@ var messages = [
     "Contain your thottery!",
     "You thot you wouldn't reach maximum thotness? I guess you should have thot twice!",
     "Weren't you the lead role in 'Big impact into Uranus'?",
-    "Check out thot in the desert! Oh, wait, they are sitting in front of the screen!",
     "'You can touch this' - MC Thot",
     "Obviously you were the main inspiration for the book of Thotology",
     "Pink Floyd don't, but you definitely need thot control!",
     "Who you gonna call? Definitely not Thotbusters!",
-    "If somebody calls out your name in front of the mirror three times, a thot will appear",
-    
+    "If somebody says 'thot' three times in front of a mirror, your face appears",
+    "I've been through the desert on a thot with no name",
     ];
