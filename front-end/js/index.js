@@ -18,22 +18,27 @@ window.onload = () => {
 
 	var button = document.getElementById('thot-me');
 	var messages = [
-	    "Thot, plz",
+	    "Thot, plz.",
 	    "Send this thot to Gulag immediately!",
 	    "The thot-o-meter almost exploded due to your thotness!",
 	    "A penny for your thots.",
 	    "I spot a THOT!",
-	    "Begone, thot",
+	    "Begone, thot.",
 	    "Contain your thottery!",
 	    "Weren't you the lead role in 'Big impact into Uranus'?",
 	    "'You can touch this' - MC Thot",
-	    "Obviously you were the main inspiration for the book of Thotology",
+	    "Obviously you were the main inspiration for the book of Thotology.",
 	    "Pink Floyd don't, but you definitely need thot control!",
 	    "Who you gonna call? Definitely not Thotbusters!",
-	    "If somebody says 'thot' three times in front of a mirror, your face appears",
-	    "I've been through the desert on a thot with no name",
-	    "You smell like a baby thot",
+	    "If somebody says 'thot' three times in front of a mirror, your face appears.",
+	    "I've been through the desert on a thot with no name.",
+	    "You smell like a baby thot.",
 	    "Booo, you thot!",
+	    "Houston, we have a thot.",
+	    "How very thotful of you.",
+	    "...and thotness for all",
+	    "I got 99 problems, but being a thot ain't one.",
+	    "Thottinator",
 	];
 	var clicked = false;
 
