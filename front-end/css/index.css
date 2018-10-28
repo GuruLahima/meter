@@ -17,7 +17,7 @@ body {
     left: 0;
     bottom: 0;
     right: 0;
-    background-image: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Faz616578.vo.msecnd.net%2Ffiles%2F2016%2F10%2F18%2F636123515330755057-1710839023_115206-regina-george-halloween-costum-aim3.jpeg&f=1");
+    background-image: url("../resources/RG.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -36,7 +36,7 @@ h1 {
     margin-bottom: 0;
     color: black;
     font-size: 4em;
-    text-shadow: 2px 2px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 hr {
@@ -48,7 +48,7 @@ h5 {
     padding-top: 85px;
     padding-bottom: 10px;
     color: black;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     letter-spacing: 1px;
 }
 
