@@ -22,6 +22,7 @@ window.onload = () => {
 	var messageBox = document.getElementById("messageBox");
 	
 	button.onclick = () => {
+	    gauge = new Gauge(target).setOptions(opts); // create sexy gauge!
 		gauge.set(gauge.maxValue);
 		messageBox.innerHTML = messages[Math.floor(Math.random() * messages.length)];
 	};
